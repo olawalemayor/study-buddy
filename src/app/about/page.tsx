@@ -1,4 +1,3 @@
-// app/about/page.tsx
 export default function AboutPage() {
   return (
     <main className="max-w-3xl mx-auto py-10 px-4">

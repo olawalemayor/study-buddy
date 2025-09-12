@@ -16,7 +16,7 @@ export default function RootLayout({
   return (
     <html lang="en" data-theme="light">
       <body>
-        <div className="h-screen">
+        <div className="h-screen overflow-y-auto">
           <Header />
           {children}
         </div>
