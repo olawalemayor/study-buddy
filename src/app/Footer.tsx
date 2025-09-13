@@ -28,7 +28,7 @@ export default function Footer() {
             About
           </Link>
           <a
-            href="https://github.com/olawalemayor"
+            href="https://github.com/olawalemayor/study-buddy"
             target="_blank"
             rel="noreferrer"
             className="link link-hover">

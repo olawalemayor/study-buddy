@@ -27,6 +27,7 @@ We wanted to create an **educational tool** that makes learning:
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/) + [DaisyUI](https://daisyui.com/)  
 - **AI APIs**:  
   - 🔹 **Summarizer API** → simplify complex content  
+  - 🔹 **Language Detector API** → Automatically detects the language from a text
   - 🔹 **Translator API** → support multilingual learning  
   - 🔹 **Prompt API** → generate quizzes and structured responses  
 - **Icons**: [React Icons](https://react-icons.github.io/react-icons/)  
